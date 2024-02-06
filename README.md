@@ -16,6 +16,8 @@ I'm excited about the projects I'm working on and the ones I plan to start. Stay
 ## Connect with Me
 
 - GitHub: [BitroBik](https://github.com/BitroBik)
+- Youtube:
+[BitroBik](https://youtube.com/@CorgiPet?si=ecg-tNkkvXfZoT_J)
 
 Feel free to reach out if you have any interesting projects or just want to chat about coding!
 
